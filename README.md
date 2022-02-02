@@ -1,3 +1,3 @@
 # Tutorial
 
-GEtting ready to learn this program and Git
+GEtting ready to learn this program and Git!!!
